@@ -1,3 +1,4 @@
+
 section{
   display: flex;
   justify-content: center;
@@ -10,4 +11,18 @@ ul{
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+}
+.allButtons{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: dodgerblue;
+}
+.allButtons button{
+  margin: 1px 10px;
+  background-color: blue;
+  color:#FFF;
+}
+.nav-wrapper{
+  background-color: blue;
 }
