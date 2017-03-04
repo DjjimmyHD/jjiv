@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('.butt').click(function(){
+  $('.aww').click(function(){
     grabAww()
   })
   $('.earth').click(function(){
