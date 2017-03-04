@@ -17,12 +17,17 @@ ul{
   flex-direction: row;
   justify-content: center;
   background-color: dodgerblue;
+  height:100px;
 }
 .allButtons button{
   margin: 1px 10px;
   background-color: blue;
   color:#FFF;
+  width:200px;
 }
 .nav-wrapper{
   background-color: blue;
+}
+h5 li {
+  margin:1px 10px
 }
